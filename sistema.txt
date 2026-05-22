@@ -1,1 +1,2 @@
 Sistema de pagos fintech
+Se agrega validación básica de pagos
